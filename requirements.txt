@@ -1,0 +1,10 @@
+# Tem que instalar esses 03 para funfa
+# pandas
+# pywin32
+# openpyxl
+# pyinstaller
+# pyinstaller --onefile -w nomedoarquivo.py (com -w com interface gráfica)(sem -w se não tiver interface gráfica)
+# deleta a pasta build
+# deleta o arquivo *.spec
+# dentro da pasto dist fica o arquivo executável, porém o aquivo execuvel e a planila, tem que estar na mesma
+# pasta para funcionar o programa.
